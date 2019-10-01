@@ -1,0 +1,32 @@
+#home-page {
+
+  #bamboo-factor {
+    .quality {
+      margin-bottom: 2rem;
+    }
+  }
+
+  #services {
+    .general-service {
+      p.alt-body {
+        margin-bottom: 0.2rem;
+      }
+      margin-bottom: 2rem;
+    }
+
+    .client-list .client-name{
+      margin-bottom: 1rem;
+    }
+  }
+
+
+
+  #video-block {
+    .video-frame {
+      max-width: 1000px;
+      margin: 0 auto;
+      background: $temp-grey;
+      height: 500px;
+    }
+  }
+}

@@ -1,0 +1,26 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+// Variables
+@import 'variables';
+@import 'components';
+@import 'typography';
+@import 'navigation';
+
+@import './pages/pages';
+
+.container {
+  margin: 0 auto;
+}
+
+section {
+  margin: 160px 0;
+}
+
+.highlight {
+  color: $highlight;
+}

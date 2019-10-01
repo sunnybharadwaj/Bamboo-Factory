@@ -1,0 +1,74 @@
+//<editor-fold desc="Buttons">
+//Buttons
+
+.std-btn {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 11px 30px;
+  border: 5px solid $primary-color;
+  color: $text-black;
+  background: transparent;
+  border-radius: 2px;
+
+  &:hover {
+    cursor: pointer;
+    background: $primary-color;
+    color: rgba(255, 255, 255, 0.90);
+  }
+
+  &.no-border {
+    border: none;
+    &:hover {
+      border: none;
+      background: transparent;
+      cursor: pointer;
+      color: $primary-color;
+    }
+  }
+}
+
+
+.txt-btn {
+  font-weight: bold;
+  letter-spacing: -0.035em;
+  color: $primary-color;
+
+  &.lg {
+    font-size: 52px;
+  }
+
+  &.md {
+    font-size: 33px;
+  }
+
+  &:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: $text-black;
+  }
+}
+
+//</editor-fold>
+
+//<editor-fold desc="Separators">
+.line {
+  height: 5px;
+  background: $primary-color;
+  width: 150px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+//</editor-fold>
+
+//<editor-fold desc="Network CTA">
+#network-cta {
+  padding: 120px 0;
+  background: $bg-dark-grey;
+  h3 {
+    color: white;
+    opacity: 0.9;
+  }
+
+}
+//</editor-fold>

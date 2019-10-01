@@ -1,0 +1,34 @@
+#profile-page {
+  #profile-hero {
+    .stat {
+      margin-bottom: 1rem;
+      .h1 {
+        color: $primary-color;
+        margin-right: 10px;
+      }
+    }
+  }
+
+  #core-areas {
+    .core-list {
+      h2 {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+
+  #accomplishments {
+    .accomplishment {
+      margin-bottom: 2rem;
+      h3 {
+        margin-bottom: 0.5rem;
+      }
+    }
+  }
+
+  #cta-lg-links {
+    .txt-btn {
+      margin-bottom: 2rem;
+    }
+  }
+}
