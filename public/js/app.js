@@ -2246,28 +2246,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {}
 });
@@ -2532,7 +2510,6 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-//
 //
 //
 //
@@ -20518,7 +20495,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-full lg:w-7/12" }, [
       _c("div", { staticClass: "content" }, [
-        _c("div", { staticClass: "mb-24" }),
+        _c("div", { staticClass: "mb-20" }),
         _vm._v(" "),
         _c("div", {}, [
           _c("h2", [
@@ -20531,7 +20508,7 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("p", { staticClass: "max-w-xl alt-body" }, [
             _vm._v(
-              "It’s just like the story of the grasshopper and the octopus. All year long, the\n                                grasshopper kept burying acorns for winter, while the octopus mooched off his girlfriend\n                                and watched TV. "
+              "Bamboo Factory is a cross-cultural consultancy which supports Startups, Scaleups and Technology SME’s with international expansion, scaling, market access. We help startups grow fast, with flexible services and strong networks."
             )
           ]),
           _vm._v(" "),
@@ -20559,10 +20536,10 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("div", { staticClass: "mb-2" }),
         _vm._v(" "),
-        _c("div", { staticClass: "max-w-5xl mb-12" }, [
+        _c("div", { staticClass: "max-w-6xl mb-12" }, [
           _c("h3", { staticClass: "font-normal" }, [
             _vm._v(
-              "Oh, all right, I am. But if anything happens to me, tell them I died robbing\n                    some old man. There’s one way and only one way to determine if an animal is intelligent. Dissect its\n                    brain!"
+              "Companies with a high Bamboo Factor are Strong, Fast growing and Sustainable, have a high degree of internationalization and possibilities for quick results, just like the natural growth of the versatile Bamboo plant.\n                "
             )
           ])
         ]),
@@ -20579,7 +20556,7 @@ var staticRenderFns = [
                 _vm._v(" "),
                 _c("p", { staticClass: "pr-20" }, [
                   _vm._v(
-                    'Morbo can\'t understand his rbo prompter because he forgot how you say that letter that\'s\n                                shaped like a man wearing a hat. Yeah, and if you were the pope they\'d be all, "Straighten\n                                your pope hat." And "Put on your good vestments."'
+                    "Setting the business up in new markets, though essential for scaling up, becomes a complex and arduous process. Often times, it takes too long to prepare or understand what exactly one may need."
                   )
                 ])
               ])
@@ -20595,7 +20572,7 @@ var staticRenderFns = [
             _vm._v(" "),
             _c("p", { staticClass: "pr-20" }, [
               _vm._v(
-                'Morbo can\'t understand his teleprompter because he forgot how you say that letter that\'s\n                        shaped like a man wearing a hat. Yeah, and if you were the pope they\'d be all, "Straighten\n                        your pope hat." And "Put on your good vestments."'
+                "We connect you to ecosystems, opportunities, talent and offer strong partnerships across globe with our trusted networks, making the process easier and your efforts efficient."
               )
             ])
           ])
@@ -20614,21 +20591,25 @@ var staticRenderFns = [
             _c("div", { staticClass: "content" }, [
               _c("div", { staticClass: "max-w-2xl" }, [
                 _c("div", { staticClass: "quality mb-8" }, [
-                  _c("h3", [_vm._v("Economical")]),
+                  _c("h3", [_vm._v("Strong")]),
                   _vm._v(" "),
                   _c("p", [
+                    _vm._v("The bamboo plant is "),
+                    _c("span", { staticClass: "font-bold" }, [
+                      _vm._v("strong")
+                    ]),
                     _vm._v(
-                      "It’s just like the story of the grasshopper and the octopus. All year long, the\n                                    grasshopper kept burying acorns for winter, while the octopus mooched off his\n                                    girlfriend and watched TV. "
+                      ". Similarly, business is strong and resilient to changing environments. It is not just about opening opportunistic revenue opportunities but building durable internationally scaling ventures."
                     )
                   ])
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "quality" }, [
-                  _c("h3", [_vm._v("Strong")]),
+                  _c("h3", [_vm._v("Fast Growing")]),
                   _vm._v(" "),
                   _c("p", [
                     _vm._v(
-                      "It’s just like the story of the grasshopper and the octopus. All year long, the\n                                    grasshopper kept burying acorns for winter, while the octopus mooched off his\n                                    girlfriend and watched TV. "
+                      "Bamboo is the fastest growing plant on this planet growing at an amazing 47.6 inches in a 24 hour period. Similarly, to internationalize, businesses need to be set on process allowing faster growth. "
                     )
                   ])
                 ]),
@@ -20658,7 +20639,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", { staticClass: "font-bold" }, [
                 _vm._v(
-                  "It’s just like the story of the grasshopper and the octopus. All year long,\n                            the grasshopper kept burying acorns for winter, while the octopus mooched off his girlfriend\n                            and watched TV. "
+                  "Bamboo Factor is a combination of these features of a business which offers us your ‘degree of internationalization’, to help up assess status and focus our efforts towards achieving the right results for your specific needs."
                 )
               ])
             ])
@@ -20687,10 +20668,10 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "w-8/12" }, [
       _c("div", { staticClass: "content" }, [
-        _c("div", { staticClass: "max-w-lg mb-6" }, [
+        _c("div", { staticClass: "max-w-3xl mb-6" }, [
           _c("p", [
             _vm._v(
-              "It’s just like the story of the grasshopper and the octopus. All year long, the\n                                grasshopper kept burying\n                                acorns for winter, while the octopus mooched off his girlfriend and watched TV. "
+              "Juliane Frömmter has 10+ years of Sales and Business Development Experience in the Tech Industry, a couple of those years in Tech Startups for T-Hub Foundation in Hyderabad, India’s most ambitious Incubation and Acceleration Initiative, she has built bridges for Startups, Ecosystem Enablers and Governments to support the internationalization of both Indian and International Startups and is more closely knit ecosystems across the globe."
             )
           ])
         ]),
@@ -20719,7 +20700,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("h3", { staticClass: "max-w-5xl" }, [
           _vm._v(
-            "Oh, all right, I am. But if anything happens to me, tell them I died robbing some\n                old man. All year long, the grasshopper kept burying acorns for winter, while the octopus mooched\n                off his girlfriend and watched TV."
+            "We provide global growth opportunities by helping players within the startup ecosystem to establish sustainable strategic partnerships\n                across the globe, involving all the key stakeholders in the ecosystem."
           )
         ]),
         _vm._v(" "),
@@ -20731,13 +20712,13 @@ var staticRenderFns = [
               _c("div", { staticClass: "general-service" }, [
                 _c("p", { staticClass: "alt-body" }, [
                   _vm._v(
-                    "It’s just like the story of the grasshopper and the octopus. he’s\n                                stuck in an infinite loop, and he’s an idiot! "
+                    "We act as a trust factor to bring the right people together and glue to make them stick together. "
                   )
                 ]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "All year long, the grasshopper kept burying acorns for winter, while the octopus\n                                mooched off his girlfriend and watched TV. Well, that’s love for you. What kind of a\n                                father would I be if I said no?”"
+                    "We help all important ecosystem players with setting the right goals, building the required bridges/networks and establish trust and deal-flow between various stakeholders."
                   )
                 ])
               ]),
@@ -20745,22 +20726,20 @@ var staticRenderFns = [
               _c("div", { staticClass: "general-service" }, [
                 _c("p", { staticClass: "alt-body" }, [
                   _vm._v(
-                    "It’s just like the story of the grasshopper and the octopus. he’s\n                                stuck in an infinite loop, and he’s an idiot! "
+                    "Acquiring local talent, soft-landing, initial clients acquisition and other localized efforts\n                            "
                   )
                 ]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "All year long, the grasshopper kept burying acorns for winter, while the octopus\n                                mooched off his girlfriend and watched TV. Well, that’s love for you. What kind of a\n                                father would I be if I said no?”"
+                    "We help you put together a customized strategy for your specific geographic needs and business goals. "
                   )
                 ])
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "general-service" }, [
                 _c("p", { staticClass: "alt-body" }, [
-                  _vm._v(
-                    "It’s just like the story of the grasshopper and the octopus. he’s\n                                stuck in an infinite loop, and he’s an idiot! "
-                  )
+                  _vm._v("Our network, partners = Your network, partners")
                 ]),
                 _vm._v(" "),
                 _c("p", [
@@ -20794,11 +20773,13 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "text-right" }, [
             _c("h1", { staticClass: "highlight mb-8" }, [
-              _vm._v("the grasshopper kept burying acorns for winter")
+              _vm._v("synergize towards  rapid internationalization.")
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "buttons-container" }, [
-              _c("div", { staticClass: "std-btn" }, [_vm._v("Our Services")]),
+              _c("div", { staticClass: "std-btn mr-2" }, [
+                _vm._v("Our Services")
+              ]),
               _vm._v(" "),
               _c("div", { staticClass: "std-btn" }, [
                 _vm._v("Schedule Assessment")
@@ -21281,7 +21262,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "container" }, [
         _c("h3", { staticClass: "mb-4 max-w-6xl" }, [
           _vm._v(
-            "All year long, the grasshopper kept burying acorns for winter. There’s one way and only one way to\n            determine if an animal is intelligent. Dissect its brain!"
+            "Connect to a trusted network of Startups, Ecosystem enablers, Governments, Influencers, Corporates, Decision Makers, Industry Experts. "
           )
         ]),
         _vm._v(" "),

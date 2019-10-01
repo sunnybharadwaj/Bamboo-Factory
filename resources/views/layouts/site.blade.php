@@ -11,7 +11,7 @@
 
 <div id="app" class="">
 
-    @include('components.header')
+    {{--@include('components.header')--}}
 
     <div class="page-content">
         <router-view></router-view>
