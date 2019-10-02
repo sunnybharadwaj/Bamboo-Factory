@@ -2,9 +2,39 @@
   #profile-hero {
     .stat {
       margin-bottom: 1rem;
-      .h1 {
+      .h2 {
+        display: inline-block;
         color: $primary-color;
+        margin-right: 20px;
+        min-width: 80px;
+      }
+      .h3 {
+        vertical-align: top ;
+        position:relative;
+        bottom: -8px;
+      }
+    }
+
+    .image-block {
+    .content {
+      padding-left: 80px;
+    }
+  }
+    .image-container {
+      .image {
+        max-width: 300px;
+        height: 300px;
+        margin: 0 auto 30px;
+        background: grey;
+      }
+    }
+
+    .links {
+      text-align: center;
+      .link {
+        font-size: 20px;
         margin-right: 10px;
+        display: inline-block;
       }
     }
   }

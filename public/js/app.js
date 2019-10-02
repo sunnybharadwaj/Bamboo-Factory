@@ -2416,6 +2416,30 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {}
 });
@@ -21002,45 +21026,57 @@ var staticRenderFns = [
                 _vm._v("Juliane Frommter")
               ]),
               _vm._v(" "),
-              _c("p", { staticClass: "alt-body" }, [
-                _vm._v(
-                  "Accomplished Startup Ecosystem Leader and Enabler with 7+ years experience in the German, European and Global Startup Ecosystem building support programs around International Expansion, Client Acquisition, Venture Building, Ecosystem Building, through Program Design, Planning and Execution."
-                )
+              _c("p", { staticClass: "alt-body " }, [
+                _c("span", { staticClass: "font-normal" }, [
+                  _vm._v(
+                    "\n                                Accomplished Startup Ecosystem Leader and Enabler with 7+ years experience in the German, European and Global Startup Ecosystem building support programs around International Expansion, Client Acquisition, Venture Building, Ecosystem Building, through Program Design, Planning and Execution.\n                            "
+                  )
+                ])
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "mb-8" }),
+              _c("div", { staticClass: "mb-12" }),
               _vm._v(" "),
               _c("div", { staticClass: "stats" }, [
                 _c("div", { staticClass: "stat" }, [
-                  _c("span", { staticClass: "h1" }, [_vm._v("12+")]),
+                  _c("span", { staticClass: "h2" }, [_vm._v("65+")]),
                   _vm._v(" "),
                   _c("span", { staticClass: "h3" }, [
-                    _vm._v("Years of ecosystem experience")
+                    _vm._v("Intl. Delegations & Immersion programs")
                   ])
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "stat" }, [
-                  _c("span", { staticClass: "h1" }, [_vm._v("12+")]),
+                  _c("span", { staticClass: "h2" }, [_vm._v("25+")]),
                   _vm._v(" "),
                   _c("span", { staticClass: "h3" }, [
-                    _vm._v("Years of ecosystem experience")
+                    _vm._v("Startups assisted to localize in India")
                   ])
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "stat" }, [
-                  _c("span", { staticClass: "h1" }, [_vm._v("12+")]),
+                  _c("span", { staticClass: "h2 mr-4" }, [_vm._v("5+")]),
                   _vm._v(" "),
                   _c("span", { staticClass: "h3" }, [
-                    _vm._v("Years of ecosystem experience")
+                    _vm._v("Countries - established Exchange Programs")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "stat" }, [
+                  _c("span", { staticClass: "h2" }, [_vm._v("10+")]),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "h3" }, [
+                    _vm._v("years of experience in the Technology Sector")
                   ])
                 ])
               ])
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "w-5/12" }, [
+          _c("div", { staticClass: "w-5/12 image-block" }, [
             _c("div", { staticClass: "content" }, [
-              _c("div", { staticClass: "image" }),
+              _c("div", { staticClass: "image-container" }, [
+                _c("div", { staticClass: "image" })
+              ]),
               _vm._v(" "),
               _c("div", { staticClass: "links" }, [
                 _c("div", { staticClass: "link txt-btn" }, [
@@ -21074,15 +21110,17 @@ var staticRenderFns = [
                 _vm._v("CORE AREAS OF EXPERTISE")
               ]),
               _vm._v(" "),
+              _c("h2", [_vm._v("Sales Strategy")]),
+              _vm._v(" "),
               _c("h2", [_vm._v("International Scaling")]),
               _vm._v(" "),
               _c("h2", [_vm._v("Business Development")]),
               _vm._v(" "),
               _c("h2", [_vm._v("Program Design & Execution")]),
               _vm._v(" "),
-              _c("h2", [_vm._v("Impact Acceleration")]),
+              _c("h2", [_vm._v("Europe-Asia Relationships")]),
               _vm._v(" "),
-              _c("h2", [_vm._v("Eur-Asia Expert")]),
+              _c("h2", [_vm._v("Impact Acceleration")]),
               _vm._v(" "),
               _c("h2", [_vm._v("Localization")])
             ])
@@ -21101,17 +21139,19 @@ var staticRenderFns = [
           _vm._v("ACCOMPLISHMENTS / NOTICEABLE EVENTS")
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "accomplishment-list max-w-4xl" }, [
+        _c("div", { staticClass: "accomplishment-list max-w-5xl" }, [
           _c("div", { staticClass: "accomplishment" }, [
             _c("h3", [
               _vm._v(
-                "Startups that can’t understand his teleprompter because he forgot how you say that letter happened and why I forgot you exist."
-              )
+                "Served three years as Director, International Programs at "
+              ),
+              _c("br"),
+              _vm._v(" T- Hub, Hyderabad, India. ")
             ]),
             _vm._v(" "),
             _c("p", [
               _vm._v(
-                "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up? Hello, little man. I will destroy you! Michelle, I don’t regret this, but I both rue and lament it."
+                "T-Hub is India’s\n                        fastest growing ecosystem enabler, building bridges for Startups with corporates,\n                        governments, international partners and the global marketplace. She has designed and\n                        executed successful market access programs between India and countries like Australia,\n                        Canada, Israel, the UK and others connecting Entrepreneurs with business opportunities in\n                        new markets."
               )
             ])
           ]),
@@ -21119,7 +21159,27 @@ var staticRenderFns = [
           _c("div", { staticClass: "accomplishment" }, [
             _c("h3", [
               _vm._v(
-                "Startups that can’t understand his teleprompter because he forgot how you say that letter happened and why I forgot you exist."
+                "Before joining T-Hub Hyderabad from Germany in 2016, Juliane has consulted Corporates, Service Providers and System Integrators across Europe adopting cloud based business models."
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Juliane has been building partnerships and driving sales for corporations like EMC and European cloud management startups like Zimory, Deutsche Boerse Cloud Exchange and SixSq. She first faced the disrupting power of digitisation in the early 2000s working in the music and media industry."
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "accomplishment" }, [
+            _c("h3", [
+              _vm._v(
+                "2015 - Executive MBA graduate from HULT International Business School"
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", [
+              _vm._v(
+                "Juliane spent significant time of her studies between London, Dubai and Shanghai. Her post-graduate studies included Design Thinking, Corporate Innovation and Emerging Market Economics.\n                    "
               )
             ])
           ])

@@ -11561,9 +11561,9 @@ nav .cta .nav-link:hover .text {
 }
 
 .nav-link {
-  padding: 0 30px;
+  padding: 0 20px;
   margin-right: 20px;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   letter-spacing: -0.025em;
   line-height: 1.5;
@@ -11695,9 +11695,38 @@ footer .brand {
   margin-bottom: 1rem;
 }
 
-#profile-page #profile-hero .stat .h1 {
+#profile-page #profile-hero .stat .h2 {
+  display: inline-block;
   color: #FE3B3A;
+  margin-right: 20px;
+  min-width: 80px;
+}
+
+#profile-page #profile-hero .stat .h3 {
+  vertical-align: top;
+  position: relative;
+  bottom: -8px;
+}
+
+#profile-page #profile-hero .image-block .content {
+  padding-left: 80px;
+}
+
+#profile-page #profile-hero .image-container .image {
+  max-width: 300px;
+  height: 300px;
+  margin: 0 auto 30px;
+  background: grey;
+}
+
+#profile-page #profile-hero .links {
+  text-align: center;
+}
+
+#profile-page #profile-hero .links .link {
+  font-size: 20px;
   margin-right: 10px;
+  display: inline-block;
 }
 
 #profile-page #core-areas .core-list h2 {
