@@ -1,3 +1,80 @@
-.nav-link {
-  margin-right: 20px;
+nav {
+  padding: 20px 30px;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  z-index: 1000;
+
+  &.scrolled {
+
+    background: #fdfdfd;
+    box-shadow: 0 3px 6px rgba(255, 255, 255, 0.07), 0 3px 6px rgba(156, 156, 156, 0.11);
+  }
+
+  .brand {
+    width: 120px;
+    margin: 0 30px;
+  }
+  .links {
+    padding: 20px;
+  }
+  .cta {
+    position: absolute;
+    right: 30px;
+    .nav-link {
+      font-size: 32px;
+      .text {
+        border-bottom: 3px solid $primary-color;
+      }
+      &:hover {
+        cursor: pointer;
+        .text {
+          color: $primary-color;
+        }
+      }
+    }
+  }
+
 }
+
+.nav-link {
+  padding: 0 30px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: -0.025em;
+  line-height: 1.5;
+  &.active {
+    color: $primary-color;
+  }
+
+  &:hover {
+    cursor: pointer;
+    .text {
+      border-bottom: 2px solid $primary-color;
+    }
+  }
+}
+
+
+footer {
+  position: relative;
+  padding: 80px;
+  background: rgba(52, 52, 52, 0.92);
+  border-top: 5px solid $primary-color;
+  .nav-link {
+    color: white;
+  }
+
+  .brand {
+    position: absolute;
+    bottom: 40px;
+    right: 80px;
+    margin: 40px auto 0;
+    width: 100px;
+  }
+}
+

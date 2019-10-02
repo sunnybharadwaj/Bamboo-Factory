@@ -11,7 +11,7 @@
 
 <div id="app" class="">
 
-    {{--@include('components.header')--}}
+    @include('components.header')
 
     <div class="page-content">
         <router-view></router-view>
@@ -21,7 +21,7 @@
     {{--@include('components.cta')--}}
     @include('components.footer')
 </div>
-
+<script src="{{asset('/js/jquery.min.js')}}"></script>
 <script src="{{asset('/js/app.js')}}"></script>
 </body>
 </html>

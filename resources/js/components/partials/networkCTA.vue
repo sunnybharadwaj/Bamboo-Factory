@@ -1,7 +1,7 @@
 <template>
     <div class="network-cta">
         <div class="container">
-            <h3 class="mb-4 max-w-6xl">Connect to a trusted network of Startups, Ecosystem enablers, Governments, Influencers, Corporates, Decision Makers, Industry Experts. </h3>
+            <h2 class="mb-8 max-w-6xl">Startups, Ecosystem enablers, Governments, Influencers, Corporates, Decision Makers and Industry Experts across Europe and Asia.</h2>
             <div class="txt-btn lg">Join Bamboo Network</div>
         </div>
     </div>

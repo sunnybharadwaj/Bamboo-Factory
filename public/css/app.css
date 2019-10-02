@@ -11424,10 +11424,11 @@ video {
 
 #network-cta {
   padding: 120px 0;
+  margin: 0;
   background: #343434;
 }
 
-#network-cta h3 {
+#network-cta h2 {
   color: white;
   opacity: 0.9;
 }
@@ -11473,8 +11474,9 @@ h3, .h3 {
 
 p {
   font-size: 20px;
-  letter-spacing: -0.025em;
+  letter-spacing: 0em;
   line-height: 1.6;
+  margin-bottom: 10px;
 }
 
 p.strong {
@@ -11512,20 +11514,110 @@ p.strong {
   margin-bottom: 10px;
 }
 
-.nav-link {
-  margin-right: 20px;
+nav {
+  padding: 20px 30px;
+  position: fixed;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: white;
+  z-index: 1000;
 }
 
-#home-page #bamboo-factor .quality {
+nav.scrolled {
+  background: #fdfdfd;
+  box-shadow: 0 3px 6px rgba(255, 255, 255, 0.07), 0 3px 6px rgba(156, 156, 156, 0.11);
+}
+
+nav .brand {
+  width: 120px;
+  margin: 0 30px;
+}
+
+nav .links {
+  padding: 20px;
+}
+
+nav .cta {
+  position: absolute;
+  right: 30px;
+}
+
+nav .cta .nav-link {
+  font-size: 32px;
+}
+
+nav .cta .nav-link .text {
+  border-bottom: 3px solid #FE3B3A;
+}
+
+nav .cta .nav-link:hover {
+  cursor: pointer;
+}
+
+nav .cta .nav-link:hover .text {
+  color: #FE3B3A;
+}
+
+.nav-link {
+  padding: 0 30px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: -0.025em;
+  line-height: 1.5;
+}
+
+.nav-link.active {
+  color: #FE3B3A;
+}
+
+.nav-link:hover {
+  cursor: pointer;
+}
+
+.nav-link:hover .text {
+  border-bottom: 2px solid #FE3B3A;
+}
+
+footer {
+  position: relative;
+  padding: 80px;
+  background: rgba(52, 52, 52, 0.92);
+  border-top: 5px solid #FE3B3A;
+}
+
+footer .nav-link {
+  color: white;
+}
+
+footer .brand {
+  position: absolute;
+  bottom: 40px;
+  right: 80px;
+  margin: 40px auto 0;
+  width: 100px;
+}
+
+#home-page #bamboo .quality {
   margin-bottom: 2rem;
+}
+
+#home-page #bamboo .quality h3 {
+  margin-bottom: 1rem;
+}
+
+#home-page #bamboo .bamboo-factor {
+  border-left: 5px solid #FE3B3A;
 }
 
 #home-page #services .general-service {
   margin-bottom: 2rem;
 }
 
-#home-page #services .general-service p.alt-body {
-  margin-bottom: 0.2rem;
+#home-page #services .general-service h3 {
+  margin-bottom: 1rem;
 }
 
 #home-page #services .client-list .client-name {
@@ -11533,14 +11625,70 @@ p.strong {
 }
 
 #home-page #video-block .video-frame {
-  max-width: 1000px;
+  overflow: hidden;
+  padding-top: 35.25%;
+  position: relative;
+  max-width: 1200px;
   margin: 0 auto;
-  background: #F2F2F2;
-  height: 500px;
+}
+
+#home-page #video-block .video-frame iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 0;
+  width: 100%;
+  height: 100%;
 }
 
 #about-page #intro p.alt-body {
   font-weight: 400 !important;
+}
+
+#services-block .links .link {
+  margin-bottom: 0.6rem;
+}
+
+#services-block .links .link.active {
+  color: #FE3B3A;
+}
+
+#services-block .links .link:hover {
+  cursor: pointer;
+  color: #FE3B3A;
+}
+
+#services-block .services-desc-list h3 {
+  margin-bottom: 1.2rem;
+}
+
+#services-block .services-desc-list .service-points p {
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
+
+#general-services .service {
+  max-width: 80%;
+  margin: 30px auto;
+  border: 5px solid #343434;
+  padding: 30px 35px;
+  position: relative;
+}
+
+#general-services .service .view-more-btn {
+  position: absolute;
+  right: 10px;
+  top: -12px;
+  padding: 20px;
+}
+
+#general-services .service .view-more-btn.active {
+  color: #FE3B3A;
+}
+
+#general-services .service .view-more-btn:hover {
+  color: #FE3B3A;
+  cursor: pointer;
 }
 
 #profile-page #profile-hero .stat {

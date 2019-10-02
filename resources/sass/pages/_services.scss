@@ -1,0 +1,51 @@
+#services-block {
+  .links {
+    .link {
+      margin-bottom: 0.6rem;
+      &.active {
+        color: $primary-color;
+      }
+      &:hover {
+        cursor: pointer;
+        color: $primary-color;
+      }
+    }
+  }
+
+  .services-desc-list {
+    h3 {
+      margin-bottom: 1.2rem;
+    }
+    .service-points {
+      p {
+        font-weight: normal;
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}
+
+#general-services {
+  .service {
+    max-width:80%;
+    margin: 30px auto;
+    border: 5px solid $bg-dark-grey;
+    padding: 30px 35px;
+    position: relative;
+
+    .view-more-btn {
+      position: absolute;
+      right: 10px;
+      top: -12px;
+      padding: 20px;
+
+      &.active {
+        color: $primary-color;
+      }
+      &:hover {
+        color: $primary-color;
+        cursor: pointer;
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="257.434" height="258.607" viewBox="0 0 257.434 258.607">
+  <g id="Group_267" data-name="Group 267" transform="translate(-750.001 -98)">
+    <g id="Path_80" data-name="Path 80" transform="translate(750.001 98)" fill="#fe3b3a">
+      <path d="M 251.4339294433594 252.60693359375 L 6.000003337860107 252.60693359375 L 6.000003337860107 6.00000524520874 L 251.4339294433594 6.00000524520874 L 251.4339294433594 252.60693359375 Z" stroke="none"/>
+      <path d="M 12.00001525878906 12.00001525878906 L 12.00001525878906 246.6069183349609 L 245.4339141845703 246.6069183349609 L 245.4339141845703 12.00001525878906 L 12.00001525878906 12.00001525878906 M 0 0 L 257.4339294433594 0 L 257.4339294433594 258.60693359375 L 0 258.60693359375 L 0 0 Z" stroke="none" fill="#fff"/>
+    </g>
+    <g id="Group_247" data-name="Group 247" transform="translate(784.472 217.272)">
+      <text id="Bamboo" transform="translate(0 52)" fill="#fff" font-size="50" font-family="Cabin-Bold, Cabin" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">B</tspan><tspan y="0" letter-spacing="-0.002em">a</tspan><tspan y="0" letter-spacing="-0.031em">m</tspan><tspan y="0" letter-spacing="-0.013em">b</tspan><tspan y="0" letter-spacing="-0.01em">o</tspan><tspan y="0" letter-spacing="-0.02em">o</tspan></text>
+      <text id="Factor" transform="translate(0 95.433)" fill="#fff" font-size="45" font-family="Cabin-Regular, Cabin" letter-spacing="-0.005em"><tspan x="0" y="0">Facto</tspan><tspan y="0" letter-spacing="0.024em">r</tspan></text>
+      <text id="y" transform="translate(141 95.433)" fill="#fff" font-size="45" font-family="Cabin-Bold, Cabin" font-weight="700" letter-spacing="0.016em" opacity="0.997"><tspan x="-24.165" y="0">y</tspan></text>
+    </g>
+  </g>
+</svg>

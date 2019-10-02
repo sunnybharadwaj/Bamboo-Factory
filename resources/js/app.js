@@ -16,3 +16,12 @@ new Vue({
     router
 });
 
+$(window).scroll(function() {
+    let scroll = $(window).scrollTop();
+    let Nav = $('nav');
+    if (scroll >= 1) {
+        Nav.addClass('scrolled');
+    } else if (scroll === 0) {
+        Nav.removeClass('scrolled');
+    }
+});

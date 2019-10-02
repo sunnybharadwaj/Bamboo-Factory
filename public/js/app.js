@@ -1965,12 +1965,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
-//
-//
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {}
 });
@@ -2045,6 +2039,71 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2370,6 +2429,23 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -20203,12 +20279,10 @@ var render = function() {
     _vm._v(" "),
     _c(
       "section",
-      { attrs: { id: "network-cta" } },
+      { staticClass: "mb-0", attrs: { id: "network-cta" } },
       [_c("NetworkCTAPartial")],
       1
-    ),
-    _vm._v(" "),
-    _vm._m(3)
+    )
   ])
 }
 var staticRenderFns = [
@@ -20300,18 +20374,6 @@ var staticRenderFns = [
           ])
         ])
       ])
-    ])
-  },
-  function() {
-    var _vm = this
-    var _h = _vm.$createElement
-    var _c = _vm._self._c || _h
-    return _c("ul", [
-      _c("li", [_vm._v("Testimonials")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("Join Bamboo Network")]),
-      _vm._v(" "),
-      _c("li", [_vm._v("CTA")])
     ])
   }
 ]
@@ -20439,7 +20501,7 @@ var render = function() {
           _vm._v(" "),
           _c("div", { staticClass: "w-full lg:w-5/12" }, [
             _c("img", {
-              staticClass: "mx-auto",
+              staticClass: "float-right",
               attrs: { src: "/static/images/hero.png", alt: "" }
             })
           ])
@@ -20506,10 +20568,28 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "mb-4" }),
           _vm._v(" "),
-          _c("p", { staticClass: "max-w-xl alt-body" }, [
-            _vm._v(
-              "Bamboo Factory is a cross-cultural consultancy which supports Startups, Scaleups and Technology SME’s with international expansion, scaling, market access. We help startups grow fast, with flexible services and strong networks."
-            )
+          _c("h3", { staticClass: "max-w-4xl" }, [
+            _c("span", { staticClass: "font-normal" }, [
+              _vm._v(
+                "\n                                We support Startups, Scaleups and Technology\n                                SME’s of "
+              ),
+              _c("span", { staticClass: "font-bold" }, [_vm._v("Europe")]),
+              _vm._v(" and "),
+              _c("span", { staticClass: "font-bold" }, [_vm._v("Asia")]),
+              _vm._v(" with "),
+              _c("span", { staticClass: "highlight font-bold" }, [
+                _vm._v("International Expansion")
+              ]),
+              _vm._v(",\n                                "),
+              _c("span", { staticClass: "highlight font-bold" }, [
+                _vm._v("Scaling ")
+              ]),
+              _vm._v("and "),
+              _c("span", { staticClass: "highlight font-bold" }, [
+                _vm._v("Market Access")
+              ]),
+              _vm._v(".\n                                ")
+            ])
           ]),
           _vm._v(" "),
           _c("div", { staticClass: "button-container mt-8" }, [
@@ -20527,23 +20607,8 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { attrs: { id: "bamboo-what" } }, [
+    return _c("section", { attrs: { id: "problem-solution" } }, [
       _c("div", { staticClass: "container" }, [
-        _c("h1", [
-          _vm._v("Bamboo "),
-          _c("span", { staticClass: "font-normal" }, [_vm._v("what?")])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "mb-2" }),
-        _vm._v(" "),
-        _c("div", { staticClass: "max-w-6xl mb-12" }, [
-          _c("h3", { staticClass: "font-normal" }, [
-            _vm._v(
-              "Companies with a high Bamboo Factor are Strong, Fast growing and Sustainable, have a high degree of internationalization and possibilities for quick results, just like the natural growth of the versatile Bamboo plant.\n                "
-            )
-          ])
-        ]),
-        _vm._v(" "),
         _c("div", { staticClass: "flex flex-wrap" }, [
           _c("div", { staticClass: "w-full md:w-1/2" }, [
             _c("div", { staticClass: "content" }, [
@@ -20554,9 +20619,34 @@ var staticRenderFns = [
                   _c("h2", { staticClass: "highlight" }, [_vm._v("Problem")])
                 ]),
                 _vm._v(" "),
+                _c("p", { staticClass: "pr-20 alt-body" }, [
+                  _vm._v(
+                    "Towards building a global business, Internationalization is\n                                one of the most challenging\n                                exercises there is."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "mb-4" }),
+                _vm._v(" "),
+                _c("p", { staticClass: "pr-20" }, [
+                  _c("span", { staticClass: "font-bold highlight" }, [
+                    _vm._v("Initial sales")
+                  ]),
+                  _vm._v(", acquiring "),
+                  _c("span", { staticClass: "font-bold highlight" }, [
+                    _vm._v("local talent")
+                  ]),
+                  _vm._v(" and forming "),
+                  _c("span", { staticClass: "font-bold highlight" }, [
+                    _vm._v("trusted partnerships")
+                  ]),
+                  _vm._v(
+                    " in the target geography\n                                become some of the factors that lead to a struggle."
+                  )
+                ]),
+                _vm._v(" "),
                 _c("p", { staticClass: "pr-20" }, [
                   _vm._v(
-                    "Setting the business up in new markets, though essential for scaling up, becomes a complex and arduous process. Often times, it takes too long to prepare or understand what exactly one may need."
+                    "\n                                Convince clients beyond piloting or proof of concepts remains a challenge especially in markets where ticket sizes are lower and following on investment is harder to obtain.\n                            "
                   )
                 ])
               ])
@@ -20570,9 +20660,23 @@ var staticRenderFns = [
               _c("h2", { staticClass: "highlight" }, [_vm._v("Solution")])
             ]),
             _vm._v(" "),
+            _c("p", { staticClass: "pr-20 alt-body" }, [
+              _vm._v(
+                "Localize your go-to-market strategy and sales approach and find the\n                        right partners for your specific requirements."
+              )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-4" }),
+            _vm._v(" "),
             _c("p", { staticClass: "pr-20" }, [
               _vm._v(
-                "We connect you to ecosystems, opportunities, talent and offer strong partnerships across globe with our trusted networks, making the process easier and your efforts efficient."
+                "We help you establish early customers in the target geography and connect you\n                        to ecosystems across the world.\n                    "
+              )
+            ]),
+            _vm._v(" "),
+            _c("p", { staticClass: "pr-20" }, [
+              _vm._v(
+                "\n                        Use our international network, discover and work with the\n                        right partners for your needs - Influencers, Corporate decision makers and Industry Experts.\n                    "
               )
             ])
           ])
@@ -20584,22 +20688,47 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("section", { attrs: { id: "bamboo-factor" } }, [
+    return _c("section", { attrs: { id: "bamboo" } }, [
       _c("div", { staticClass: "container" }, [
+        _c("div", { attrs: { id: "bamboo-what" } }, [
+          _c("h1", [
+            _vm._v("Bamboo "),
+            _c("span", { staticClass: "font-normal" }, [_vm._v("what?")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "mb-2" }),
+          _vm._v(" "),
+          _c("div", { staticClass: "max-w-6xl mb-12" }, [
+            _c("h3", { staticClass: "font-normal" }, [
+              _vm._v("We help you expand globally with a "),
+              _c("span", { staticClass: "highlight font-bold" }, [
+                _vm._v("fast")
+              ]),
+              _vm._v(", "),
+              _c("span", { staticClass: "highlight font-bold" }, [
+                _vm._v("strong")
+              ]),
+              _vm._v("\n                        and\n                        "),
+              _c("span", { staticClass: "highlight font-bold" }, [
+                _vm._v("sustainable")
+              ]),
+              _vm._v(
+                " growth like\n                        the bamboo plant. It symbolizes our focus on connecting Startups and Ecosystems around\n                        the globe, with a special emphasis on the bridge between Europe and Asia.\n                    "
+              )
+            ])
+          ])
+        ]),
+        _vm._v(" "),
         _c("div", { staticClass: "flex" }, [
-          _c("div", { staticClass: "w-8/12" }, [
+          _c("div", { staticClass: "w-6/12" }, [
             _c("div", { staticClass: "content" }, [
-              _c("div", { staticClass: "max-w-2xl" }, [
+              _c("div", { staticClass: "max-w-lg" }, [
                 _c("div", { staticClass: "quality mb-8" }, [
-                  _c("h3", [_vm._v("Strong")]),
+                  _c("h3", [_vm._v("Strong and Flexible")]),
                   _vm._v(" "),
                   _c("p", [
-                    _vm._v("The bamboo plant is "),
-                    _c("span", { staticClass: "font-bold" }, [
-                      _vm._v("strong")
-                    ]),
                     _vm._v(
-                      ". Similarly, business is strong and resilient to changing environments. It is not just about opening opportunistic revenue opportunities but building durable internationally scaling ventures."
+                      "Bamboo Factory aims to make the businesses we work with strong and resilient. The\n                                    goal is not just about opening revenue opportunities but building durable\n                                    ventures which scale swiftly. "
                     )
                   ])
                 ]),
@@ -20609,7 +20738,7 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("p", [
                     _vm._v(
-                      "Bamboo is the fastest growing plant on this planet growing at an amazing 47.6 inches in a 24 hour period. Similarly, to internationalize, businesses need to be set on process allowing faster growth. "
+                      "Bamboo is the fastest growing plant on this planet growing at an amazing 47.6\n                                    inches in a 24 hour period. Similarly, to internationalize, businesses need to\n                                    be set on process allowing faster growth and shorten time to market in a new\n                                    geography."
                     )
                   ])
                 ]),
@@ -20619,7 +20748,13 @@ var staticRenderFns = [
                   _vm._v(" "),
                   _c("p", [
                     _vm._v(
-                      "It’s just like the story of the grasshopper and the octopus. All year long, the\n                                    grasshopper kept burying acorns for winter, while the octopus mooched off his\n                                    girlfriend and watched TV. "
+                      "Bamboo Factory subscribes to being sustainable wherever we can. A major aspect of\n                                    this is focussing our support on Ventures that make the world a better place, a\n                                    more sustainable place."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "We love working with tech ventures around GreenTech,\n                                    AgriTech, HealthTech, E-Mobility and more. "
                     )
                   ])
                 ])
@@ -20627,20 +20762,30 @@ var staticRenderFns = [
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "w-4/12" }, [
-            _c("div", { staticClass: "content pt-16" }, [
-              _c("div", { staticClass: "heading mb-8 " }, [
-                _c("h3", { staticClass: "leading-tight" }, [_vm._v("the")]),
+          _c("div", { staticClass: "w-6/12" }, [
+            _c("div", { staticClass: "content  pt-24 " }, [
+              _c("div", { staticClass: "bamboo-factor pl-16" }, [
+                _c("div", { staticClass: "heading mb-8 " }, [
+                  _c("h3", { staticClass: "leading-tight " }, [_vm._v("the")]),
+                  _vm._v(" "),
+                  _c("h2", { staticClass: "leading-tight highlight" }, [
+                    _vm._v("Bamboo Factor")
+                  ])
+                ]),
                 _vm._v(" "),
-                _c("h2", { staticClass: "leading-tight" }, [_vm._v("Bamboo")]),
-                _vm._v(" "),
-                _c("h2", { staticClass: "leading-tight" }, [_vm._v("Factor")])
-              ]),
-              _vm._v(" "),
-              _c("p", { staticClass: "font-bold" }, [
-                _vm._v(
-                  "Bamboo Factor is a combination of these features of a business which offers us your ‘degree of internationalization’, to help up assess status and focus our efforts towards achieving the right results for your specific needs."
-                )
+                _c("div", { staticClass: "max-w-lg" }, [
+                  _c("p", { staticClass: "mb-4" }, [
+                    _vm._v(
+                      "Our philosophy is to look at a company’s growth in terms of\n                                    the bamboo and improve the capacity to reflect each of these characteristics in\n                                    their own business. Bamboo factor represents your degree of\n                                    internationalization."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("p", {}, [
+                    _vm._v(
+                      "Firms with a higher degree of internationalization are able to\n                                    innovate more, as well as protect and exploit those innovations, better. This, in\n                                    turn allows them to outperform less-international competitors, therefore improving\n                                    their market reach and, ultimately, their economic performance."
+                    )
+                  ])
+                ])
               ])
             ])
           ])
@@ -20653,10 +20798,10 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "mb-6" }, [
-      _c("div", { staticClass: "max-w-6xl " }, [
+      _c("div", { staticClass: "max-w-full " }, [
         _c("h2", [
           _vm._v(
-            "You lived before you met me?! Good man. Nixon's pro-war and pro-family. I love you, buddy! Oh dear!\n                        She's stuck in an infinite loop! Well, that's love for you. What kind of a father\n                        would I be if I said no?”"
+            '"To internationalize successfully, Startups need to go beyond pilots and proof-of-concepts and establish predictable and growing revenue streams. Localized sales strategies and Access to trustworthy network & partners are some of what’s necessary to turn interest into revenue.”'
           )
         ])
       ])
@@ -20671,7 +20816,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "max-w-3xl mb-6" }, [
           _c("p", [
             _vm._v(
-              "Juliane Frömmter has 10+ years of Sales and Business Development Experience in the Tech Industry, a couple of those years in Tech Startups for T-Hub Foundation in Hyderabad, India’s most ambitious Incubation and Acceleration Initiative, she has built bridges for Startups, Ecosystem Enablers and Governments to support the internationalization of both Indian and International Startups and is more closely knit ecosystems across the globe."
+              "Juliane Frömmter has 10+ years of Sales and Business Development Experience in the\n                                Tech Industry, a couple of those years in Tech Startups for T-Hub Foundation in\n                                Hyderabad, India’s most ambitious Incubation and Acceleration Initiative, she has\n                                built bridges for Startups, Ecosystem Enablers and Governments to support the\n                                internationalization of both Indian and International Startups and is more closely\n                                knit ecosystems across the globe."
             )
           ])
         ]),
@@ -20687,7 +20832,17 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { attrs: { id: "video-block" } }, [
-      _c("div", { staticClass: "video-frame" })
+      _c("div", { staticClass: "video-frame" }, [
+        _c("iframe", {
+          attrs: {
+            src: "https://www.youtube.com/embed/a9eDUd4Aa00",
+            frameborder: "0",
+            allow:
+              "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture",
+            allowfullscreen: ""
+          }
+        })
+      ])
     ])
   },
   function() {
@@ -20700,7 +20855,7 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("h3", { staticClass: "max-w-5xl" }, [
           _vm._v(
-            "We provide global growth opportunities by helping players within the startup ecosystem to establish sustainable strategic partnerships\n                across the globe, involving all the key stakeholders in the ecosystem."
+            "We provide global growth opportunities by helping players within the startup\n                ecosystem to establish sustainable strategic partnerships\n                across the globe, involving all the key stakeholders in the ecosystem."
           )
         ]),
         _vm._v(" "),
@@ -20710,41 +20865,41 @@ var staticRenderFns = [
           _c("div", { staticClass: "w-1/2" }, [
             _c("div", { staticClass: "content" }, [
               _c("div", { staticClass: "general-service" }, [
-                _c("p", { staticClass: "alt-body" }, [
-                  _vm._v(
-                    "We act as a trust factor to bring the right people together and glue to make them stick together. "
-                  )
-                ]),
+                _c("h3", [_vm._v("We are sales experts! ")]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "We help all important ecosystem players with setting the right goals, building the required bridges/networks and establish trust and deal-flow between various stakeholders."
+                    "We help all important ecosystem players with setting the right goals, building the\n                                required bridges/networks and establish trust and deal-flow between various\n                                stakeholders."
                   )
                 ])
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "general-service" }, [
-                _c("p", { staticClass: "alt-body" }, [
+                _c("h3", { staticClass: "max-w-lg" }, [
                   _vm._v(
-                    "Acquiring local talent, soft-landing, initial clients acquisition and other localized efforts\n                            "
+                    "Localization strategies for rapid business development"
                   )
                 ]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "We help you put together a customized strategy for your specific geographic needs and business goals. "
+                    "We help you understand the do’s and don'ts in a new geography and help you localize and customize your go-to-market strategy, sales approach."
+                  )
+                ]),
+                _vm._v(" "),
+                _c("p", [
+                  _vm._v(
+                    "If required we support with establishment of a legal entity in the new geography including access to qualified lawyers, notary and CAs."
                   )
                 ])
               ]),
               _vm._v(" "),
               _c("div", { staticClass: "general-service" }, [
-                _c("p", { staticClass: "alt-body" }, [
-                  _vm._v("Our network, partners = Your network, partners")
-                ]),
+                _c("h3", [_vm._v("Our Network = Your Network")]),
                 _vm._v(" "),
                 _c("p", [
                   _vm._v(
-                    "All year long, the grasshopper kept burying acorns for winter, while the octopus\n                                mooched off his girlfriend and watched TV. Well, that’s love for you. What kind of a\n                                father would I be if I said no?”"
+                    "We are highly connected in ecosystems across the world, especially within Europe and Asia. We use our vast network of partners to find the resources for you business’ success."
                   )
                 ])
               ])
@@ -20753,7 +20908,7 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "w-1/2" }, [
             _c("div", { staticClass: "content text-right client-list" }, [
-              _c("div", { staticClass: "mb-24" }),
+              _c("div", { staticClass: "mb-40" }),
               _vm._v(" "),
               _c("h1", { staticClass: "highlight mb-6" }, [_vm._v("We help")]),
               _vm._v(" "),
@@ -20773,7 +20928,7 @@ var staticRenderFns = [
           _vm._v(" "),
           _c("div", { staticClass: "text-right" }, [
             _c("h1", { staticClass: "highlight mb-8" }, [
-              _vm._v("synergize towards  rapid internationalization.")
+              _vm._v("synergize towards rapid internationalization.")
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "buttons-container" }, [
@@ -20781,9 +20936,7 @@ var staticRenderFns = [
                 _vm._v("Our Services")
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "std-btn" }, [
-                _vm._v("Schedule Assessment")
-              ])
+              _c("div", { staticClass: "std-btn" }, [_vm._v("Talk to Us")])
             ])
           ])
         ])
@@ -21010,20 +21163,20 @@ var render = function() {
   var _vm = this
   var _h = _vm.$createElement
   var _c = _vm._self._c || _h
-  return _c(
-    "div",
-    { attrs: { id: "services-page" } },
-    [
-      _vm._m(0),
-      _vm._v(" "),
-      _vm._m(1),
-      _vm._v(" "),
-      _vm._m(2),
-      _vm._v(" "),
-      _c("NetworkCTAPartial")
-    ],
-    1
-  )
+  return _c("div", { attrs: { id: "services-page" } }, [
+    _vm._m(0),
+    _vm._v(" "),
+    _vm._m(1),
+    _vm._v(" "),
+    _vm._m(2),
+    _vm._v(" "),
+    _c(
+      "section",
+      { attrs: { id: "network-cta" } },
+      [_c("NetworkCTAPartial")],
+      1
+    )
+  ])
 }
 var staticRenderFns = [
   function() {
@@ -21033,31 +21186,37 @@ var staticRenderFns = [
     return _c("section", { attrs: { id: "services-intro" } }, [
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "flex" }, [
-          _c("div", { staticClass: "w-7/12" }, [
+          _c("div", { staticClass: "w-8/12" }, [
             _c("div", { staticClass: "content" }, [
-              _c("h2", [
-                _vm._v(
-                  "Straighten your pope hat and put on your good vestments."
-                )
-              ]),
-              _vm._v(" "),
-              _c("p", [
-                _vm._v(
-                  'Morbo can\'t understand his teleprompter because he forgot how you say that letter that\'s\n                            shaped like a man wearing a hat. Yeah, and if you were the pope they\'d be all,\n                            "Straighten your pope hat." And "Put on your good vestments."'
-                )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "buttons-container" }, [
-                _c("div", { staticClass: "std-btn" }, [_vm._v("Our Services")]),
+              _c("div", { staticClass: "max-w-2xl" }, [
+                _c("h2", [
+                  _vm._v(
+                    "Straighten your pope hat and put on your good vestments."
+                  )
+                ]),
                 _vm._v(" "),
-                _c("div", { staticClass: "std-btn" }, [
-                  _vm._v("Schedule Assessment")
+                _c("div", { staticClass: "mb-4" }),
+                _vm._v(" "),
+                _c("p", { staticClass: "alt-body" }, [
+                  _vm._v(
+                    'Morbo can\'t understand his teleprompter because he forgot how you say that letter that\'s\n                                shaped like a man wearing a hat. Yeah, and if you were the pope they\'d be all,\n                                "Straighten your pope hat." And "Put on your good vestments."'
+                  )
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "buttons-container mt-8" }, [
+                  _c("div", { staticClass: "std-btn mr-2" }, [
+                    _vm._v("Our Services")
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "std-btn" }, [
+                    _vm._v("Schedule Assessment")
+                  ])
                 ])
               ])
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "w-5/12" })
+          _c("div", { staticClass: "w-4/12" })
         ])
       ])
     ])
@@ -21068,63 +21227,120 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("section", { attrs: { id: "services-block" } }, [
       _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "w-4/12" }, [
-          _c("div", { staticClass: "content" }, [
-            _c("div", { staticClass: "links" }, [
-              _c("div", { staticClass: "link" }, [_vm._v("Startups")]),
-              _vm._v(" "),
-              _c("div", { staticClass: "link" }, [_vm._v("Ecosystem")]),
-              _vm._v(" "),
-              _c("div", { staticClass: "link" }, [_vm._v("Governments")]),
-              _vm._v(" "),
-              _c("div", { staticClass: "link" }, [_vm._v("Corporate")]),
-              _vm._v(" "),
-              _c("div", { staticClass: "link" }, [_vm._v("Investors")]),
-              _vm._v(" "),
-              _c("div", { staticClass: "link" }, [_vm._v("More")])
-            ])
-          ])
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "w-8/12" }, [
-          _c("div", { staticClass: "content" }, [
-            _c("div", { staticClass: "startups-services" }, [
-              _c("h3", [
-                _vm._v(
-                  "Startups that can’t understand his teleprompter because he forgot how you say that letter happened and why I forgot you exist."
+        _c("div", { staticClass: "flex" }, [
+          _c("div", { staticClass: "w-4/12" }, [
+            _c("div", { staticClass: "content" }, [
+              _c("div", { staticClass: "links" }, [
+                _c(
+                  "div",
+                  {
+                    staticClass: "link h3 active",
+                    attrs: { id: "Startups-s-link" }
+                  },
+                  [_vm._v("Startups")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  { staticClass: "link h3", attrs: { id: "Ecosystem-s-link" } },
+                  [_vm._v("Ecosystem")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  {
+                    staticClass: "link h3",
+                    attrs: { id: "Governments-s-link" }
+                  },
+                  [_vm._v("Governments")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  { staticClass: "link h3", attrs: { id: "Corporate-s-link" } },
+                  [_vm._v("Corporate")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  { staticClass: "link h3", attrs: { id: "Investors-s-link" } },
+                  [_vm._v("Investors")]
+                ),
+                _vm._v(" "),
+                _c(
+                  "div",
+                  { staticClass: "link h3", attrs: { id: "More-s-link" } },
+                  [_vm._v("More")]
                 )
-              ]),
-              _vm._v(" "),
-              _c("div", { staticClass: "service-points" }, [
-                _c("p", { staticClass: "alt-body" }, [
-                  _vm._v(
-                    "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "alt-body" }, [
-                  _vm._v(
-                    "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
-                  )
-                ]),
-                _vm._v(" "),
-                _c("p", { staticClass: "alt-body" }, [
-                  _vm._v(
-                    "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
-                  )
-                ])
               ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "ecosystem-services" }),
-            _vm._v(" "),
-            _c("div", { staticClass: "governments-services" }),
-            _vm._v(" "),
-            _c("div", { staticClass: "corporate-services" }),
-            _vm._v(" "),
-            _c("div", { staticClass: "investors-services" }),
-            _vm._v(" "),
-            _c("div", { staticClass: "more-services" })
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "w-8/12" }, [
+            _c("div", { staticClass: "content services-desc-list" }, [
+              _c(
+                "div",
+                {
+                  staticClass: "service-desc",
+                  attrs: { id: "startups-services" }
+                },
+                [
+                  _c("h3", [
+                    _c("span", { staticClass: "highlight" }, [
+                      _vm._v("Startups ")
+                    ]),
+                    _vm._v(
+                      "that can’t understand his teleprompter because he forgot how you say that letter happened and why I forgot you exist."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "service-points" }, [
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
+                      )
+                    ])
+                  ])
+                ]
+              ),
+              _vm._v(" "),
+              _c("div", {
+                staticClass: "service-desc",
+                attrs: { id: "ecosystem-services" }
+              }),
+              _vm._v(" "),
+              _c("div", {
+                staticClass: "service-desc",
+                attrs: { id: "governments-services" }
+              }),
+              _vm._v(" "),
+              _c("div", {
+                staticClass: "service-desc",
+                attrs: { id: "corporate-services" }
+              }),
+              _vm._v(" "),
+              _c("div", {
+                staticClass: "service-desc",
+                attrs: { id: "investors-services" }
+              }),
+              _vm._v(" "),
+              _c("div", {
+                staticClass: "service-desc",
+                attrs: { id: "more-services" }
+              })
+            ])
           ])
         ])
       ])
@@ -21136,21 +21352,29 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("section", { attrs: { id: "general-services" } }, [
       _c("div", { staticClass: "container" }, [
-        _c("h2", [_vm._v("Services")]),
+        _c("h2", { staticClass: "text-center highlight" }, [
+          _vm._v("Services")
+        ]),
         _vm._v(" "),
         _c("div", { staticClass: "gen-service-list" }, [
           _c("div", { staticClass: "service" }, [
-            _c("div", { staticClass: "title" }, [
+            _c("div", { staticClass: "title h3" }, [
               _vm._v("Curabitur urna dolor")
             ]),
             _vm._v(" "),
-            _c("div", { staticClass: "desc" }, [
-              _vm._v(
-                "how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                        you were the pope they'd be all.\n                    "
-              )
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                How you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
             ]),
             _vm._v(" "),
-            _c("span", { staticClass: "view-more-btn" }, [_vm._v("+")])
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
           ])
         ])
       ])
@@ -21260,9 +21484,9 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "network-cta" }, [
       _c("div", { staticClass: "container" }, [
-        _c("h3", { staticClass: "mb-4 max-w-6xl" }, [
+        _c("h2", { staticClass: "mb-8 max-w-6xl" }, [
           _vm._v(
-            "Connect to a trusted network of Startups, Ecosystem enablers, Governments, Influencers, Corporates, Decision Makers, Industry Experts. "
+            "Startups, Ecosystem enablers, Governments, Influencers, Corporates, Decision Makers and Industry Experts across Europe and Asia."
           )
         ]),
         _vm._v(" "),
@@ -36336,6 +36560,16 @@ new vue__WEBPACK_IMPORTED_MODULE_1___default.a({
   //     NavComponent
   // },
   router: _routes__WEBPACK_IMPORTED_MODULE_2__["default"]
+});
+$(window).scroll(function () {
+  var scroll = $(window).scrollTop();
+  var Nav = $('nav');
+
+  if (scroll >= 1) {
+    Nav.addClass('scrolled');
+  } else if (scroll === 0) {
+    Nav.removeClass('scrolled');
+  }
 });
 
 /***/ }),

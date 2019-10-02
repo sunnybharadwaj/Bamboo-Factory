@@ -73,15 +73,9 @@
             </div>
         </section>
 
-        <section id="network-cta">
+        <section id="network-cta" class="mb-0">
             <NetworkCTAPartial></NetworkCTAPartial>
         </section>
-
-        <ul>
-            <li>Testimonials</li>
-            <li>Join Bamboo Network</li>
-            <li>CTA</li>
-        </ul>
     </div>
 </template>
 
