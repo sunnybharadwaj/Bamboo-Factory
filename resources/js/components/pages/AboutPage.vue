@@ -2,16 +2,18 @@
     <div id="about-page">
 
         <section id="intro text-center">
-            <div class="container max-w-3xl text-center">
-                <h2>All year long, the grasshopper kept burying acorns for winter.</h2>
-                <div class="line mx-auto"></div>
-                <p class="alt-body">Hello, little man. I will destroy you! Michelle, I don't regret this, but I both rue and lament it.
-                    But I've never been to the moon! Oh, how awful. Did he at least die painlessly? …To shreds, you say.
-                    Well, how is his wife holding up? …To shreds, you say.</p>
+            <div class="container">
+                <h2 class="max-w-3xl">We work towards building your global success stories.</h2>
+                <div class="line"></div>
+                <div class="max-w-4xl">
+                    <p class="alt-body">Bamboo Factory is a cross-cultural consultancy that helps you understand the do’s and don’ts of your target market, does the ground work to get your business running - from registration to validating your business model in the new geography.</p>
+                    <div class="mb-4"></div>
+                    <p class="max-w-3xl">We are here to serve you towards achieving your expansion goals faster, with less money spent. We time your efforts, assist you to acquire your initial customers and make new strategic international partnerships.</p>
+                </div>
+
+
                 <div class="mb-4"></div>
-                <p class="alt-body">I will destroy you! Michelle, I don’t regret this, but I both rue and lament it. But I’ve never been
-                    to the moon! Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his
-                    wife holding up?</p>
+                <p class="alt-body"></p>
                 <div class="buttons-container mt-8">
                     <div class="std-btn mr-2">Our Services</div>
                     <div class="std-btn">Schedule Assessment</div>
@@ -36,7 +38,7 @@
                     <div class="w-full lg:w-7/12">
                         <div class="content">
                             <div class="mb-24"></div>
-                            <h3 class="mb-6">It’s just like the story of the grasshopper and the octopus. All year long, the grasshopper kept burying acorns for winter, while the octopus mooched off his girlfriend and watched TV. </h3>
+                            <h3 class="mb-6">Though naturally strong in Germany and India through her time spent working within these ecosystems, Juliane has created a strong network from the US & Canada to the UK, France, Finland or Israel all the way to Japan, China, Singapore & Australia. </h3>
 
                             <router-link to="/profile" class="txt-btn md">
                                 Read Full Profile
@@ -52,12 +54,12 @@
                 <div class="testimonial">
                     <h2 class="max-w-5xl mx-auto text-center">
                         <span class="font-bold highlight">"</span>
-                        You lived before you met me?! Good man. Nixon's pro-war and pro-family. I love you, buddy! Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you. What kind of a father would I be if I said no?
+                        We have truly been able make the right connections with the right people at the right time to be able to establish the type of partnerships that we want to. Juliane helped us we utilize our efforts and time in the right direction.
                         <span class="font-bold highlight">"</span>
                         <div class="testimonial-profile text-center mt-12">
-                            <h3>Mark Furhman</h3>
-                            <p class="font-bold">Senior Detective</p>
-                            <p class="font-bold">Department of Police, LA</p>
+                            <h3 class="highlight">Katarina Ilic</h3>
+                            <p class="font-bold mb-0">Co-Founder</p>
+                            <p class="font-bold">Voltera</p>
                         </div>
                     </h2>
                     <div class="max-w-4xl">

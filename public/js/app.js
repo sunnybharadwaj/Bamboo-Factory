@@ -1965,6 +1965,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {}
 });
@@ -20254,7 +20256,7 @@ var render = function() {
                 _vm._v(" "),
                 _c("h3", { staticClass: "mb-6" }, [
                   _vm._v(
-                    "It’s just like the story of the grasshopper and the octopus. All year long, the grasshopper kept burying acorns for winter, while the octopus mooched off his girlfriend and watched TV. "
+                    "Though naturally strong in Germany and India through her time spent working within these ecosystems, Juliane has created a strong network from the US & Canada to the UK, France, Finland or Israel all the way to Japan, China, Singapore & Australia. "
                   )
                 ]),
                 _vm._v(" "),
@@ -20291,28 +20293,32 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("section", { attrs: { id: "intro text-center" } }, [
-      _c("div", { staticClass: "container max-w-3xl text-center" }, [
-        _c("h2", [
-          _vm._v(
-            "All year long, the grasshopper kept burying acorns for winter."
-          )
+      _c("div", { staticClass: "container" }, [
+        _c("h2", { staticClass: "max-w-3xl" }, [
+          _vm._v("We work towards building your global success stories.")
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "line mx-auto" }),
+        _c("div", { staticClass: "line" }),
         _vm._v(" "),
-        _c("p", { staticClass: "alt-body" }, [
-          _vm._v(
-            "Hello, little man. I will destroy you! Michelle, I don't regret this, but I both rue and lament it.\n                But I've never been to the moon! Oh, how awful. Did he at least die painlessly? …To shreds, you say.\n                Well, how is his wife holding up? …To shreds, you say."
-          )
+        _c("div", { staticClass: "max-w-4xl" }, [
+          _c("p", { staticClass: "alt-body" }, [
+            _vm._v(
+              "Bamboo Factory is a cross-cultural consultancy that helps you understand the do’s and don’ts of your target market, does the ground work to get your business running - from registration to validating your business model in the new geography."
+            )
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "mb-4" }),
+          _vm._v(" "),
+          _c("p", { staticClass: "max-w-3xl" }, [
+            _vm._v(
+              "We are here to serve you towards achieving your expansion goals faster, with less money spent. We time your efforts, assist you to acquire your initial customers and make new strategic international partnerships."
+            )
+          ])
         ]),
         _vm._v(" "),
         _c("div", { staticClass: "mb-4" }),
         _vm._v(" "),
-        _c("p", { staticClass: "alt-body" }, [
-          _vm._v(
-            "I will destroy you! Michelle, I don’t regret this, but I both rue and lament it. But I’ve never been\n                to the moon! Oh, how awful. Did he at least die painlessly? …To shreds, you say. Well, how is his\n                wife holding up?"
-          )
-        ]),
+        _c("p", { staticClass: "alt-body" }),
         _vm._v(" "),
         _c("div", { staticClass: "buttons-container mt-8" }, [
           _c("div", { staticClass: "std-btn mr-2" }, [_vm._v("Our Services")]),
@@ -20344,7 +20350,7 @@ var staticRenderFns = [
           _c("h2", { staticClass: "max-w-5xl mx-auto text-center" }, [
             _c("span", { staticClass: "font-bold highlight" }, [_vm._v('"')]),
             _vm._v(
-              "\n                    You lived before you met me?! Good man. Nixon's pro-war and pro-family. I love you, buddy! Oh dear! She's stuck in an infinite loop, and he's an idiot! Well, that's love for you. What kind of a father would I be if I said no?\n                    "
+              "\n                    We have truly been able make the right connections with the right people at the right time to be able to establish the type of partnerships that we want to. Juliane helped us we utilize our efforts and time in the right direction.\n                    "
             ),
             _c("span", { staticClass: "font-bold highlight" }, [_vm._v('"')]),
             _vm._v(" "),
@@ -20352,15 +20358,15 @@ var staticRenderFns = [
               "div",
               { staticClass: "testimonial-profile text-center mt-12" },
               [
-                _c("h3", [_vm._v("Mark Furhman")]),
-                _vm._v(" "),
-                _c("p", { staticClass: "font-bold" }, [
-                  _vm._v("Senior Detective")
+                _c("h3", { staticClass: "highlight" }, [
+                  _vm._v("Katarina Ilic")
                 ]),
                 _vm._v(" "),
-                _c("p", { staticClass: "font-bold" }, [
-                  _vm._v("Department of Police, LA")
-                ])
+                _c("p", { staticClass: "font-bold mb-0" }, [
+                  _vm._v("Co-Founder")
+                ]),
+                _vm._v(" "),
+                _c("p", { staticClass: "font-bold" }, [_vm._v("Voltera")])
               ]
             )
           ]),
