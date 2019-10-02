@@ -54,7 +54,7 @@
                 <div class="testimonial">
                     <h2 class="max-w-5xl mx-auto text-center">
                         <span class="font-bold highlight">"</span>
-                        We have truly been able make the right connections with the right people at the right time to be able to establish the type of partnerships that we want to. Juliane helped us we utilize our efforts and time in the right direction.
+                        We have truly been able make the right connections with the right people at the right time to be able to establish the type of partnerships that we want to. Juliane helped us towards utilizing our time and efforts in the right direction.
                         <span class="font-bold highlight">"</span>
                         <div class="testimonial-profile text-center mt-12">
                             <h3 class="highlight">Katarina Ilic</h3>

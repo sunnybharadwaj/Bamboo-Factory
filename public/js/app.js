@@ -20350,7 +20350,7 @@ var staticRenderFns = [
           _c("h2", { staticClass: "max-w-5xl mx-auto text-center" }, [
             _c("span", { staticClass: "font-bold highlight" }, [_vm._v('"')]),
             _vm._v(
-              "\n                    We have truly been able make the right connections with the right people at the right time to be able to establish the type of partnerships that we want to. Juliane helped us we utilize our efforts and time in the right direction.\n                    "
+              "\n                    We have truly been able make the right connections with the right people at the right time to be able to establish the type of partnerships that we want to. Juliane helped us towards utilizing our time and efforts in the right direction.\n                    "
             ),
             _c("span", { staticClass: "font-bold highlight" }, [_vm._v('"')]),
             _vm._v(" "),
