@@ -167,8 +167,8 @@
         <section id="juliane-quote">
             <div class="container">
                 <div class="mb-6">
-                    <div class="max-w-full ">
-                        <h2>"To internationalize successfully, Startups need to go beyond pilots and proof-of-concepts and establish predictable and growing revenue streams. Localized sales strategies and Access to trustworthy network & partners are some of what’s necessary to turn interest into revenue.”</h2>
+                    <div class="max-w-6xl ">
+                        <h2>"To internationalize successfully, Startups need to go beyond pilots and proof-of-concepts and establish predictable and growing revenue streams. Localized sales strategies and access to trustworthy network & partners are some of what’s necessary to turn interest into revenue.”</h2>
                     </div>
                 </div>
 

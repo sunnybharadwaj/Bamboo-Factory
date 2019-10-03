@@ -11367,7 +11367,7 @@ video {
 
 .std-btn {
   display: inline-block;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   padding: 11px 30px;
   border: 5px solid #FE3B3A;
@@ -11689,6 +11689,20 @@ footer .brand {
 #general-services .service .view-more-btn:hover {
   color: #FE3B3A;
   cursor: pointer;
+}
+
+#services-block .services-desc-list .service-desc {
+  margin-bottom: 5rem;
+}
+
+#services-block .service-header {
+  background: #343434;
+  margin: 0 -30px 40px;
+  padding: 120px 30px 20px;
+}
+
+#services-block .service-header h2 {
+  color: rgba(255, 255, 255, 0.91);
 }
 
 #profile-page #profile-hero .stat {

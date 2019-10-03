@@ -49,3 +49,22 @@
     }
   }
 }
+
+
+#services-block {
+
+  .services-desc-list {
+    .service-desc {
+      margin-bottom: 5rem;
+    }
+  }
+  .service-header {
+    background: $bg-dark-grey;
+    margin: 0 -30px 40px;
+    padding: 120px 30px 20px;
+
+    h2 {
+      color: rgba(255, 255, 255, 0.91);
+    }
+  }
+}

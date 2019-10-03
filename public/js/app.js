@@ -2551,6 +2551,234 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {}
 });
@@ -20828,10 +21056,10 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "mb-6" }, [
-      _c("div", { staticClass: "max-w-full " }, [
+      _c("div", { staticClass: "max-w-6xl " }, [
         _c("h2", [
           _vm._v(
-            '"To internationalize successfully, Startups need to go beyond pilots and proof-of-concepts and establish predictable and growing revenue streams. Localized sales strategies and Access to trustworthy network & partners are some of what’s necessary to turn interest into revenue.”'
+            '"To internationalize successfully, Startups need to go beyond pilots and proof-of-concepts and establish predictable and growing revenue streams. Localized sales strategies and access to trustworthy network & partners are some of what’s necessary to turn interest into revenue.”'
           )
         ])
       ])
@@ -21252,37 +21480,45 @@ var staticRenderFns = [
     return _c("section", { attrs: { id: "services-intro" } }, [
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "flex" }, [
-          _c("div", { staticClass: "w-8/12" }, [
+          _c("div", { staticClass: "w-10/12" }, [
             _c("div", { staticClass: "content" }, [
-              _c("div", { staticClass: "max-w-2xl" }, [
+              _c("div", { staticClass: "max-w-5xl" }, [
                 _c("h2", [
                   _vm._v(
-                    "Straighten your pope hat and put on your good vestments."
+                    "A modern, experience based, market-tested approach to innovation and\n                                internationalization."
                   )
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "mb-4" }),
                 _vm._v(" "),
                 _c("p", { staticClass: "alt-body" }, [
-                  _vm._v(
-                    'Morbo can\'t understand his teleprompter because he forgot how you say that letter that\'s\n                                shaped like a man wearing a hat. Yeah, and if you were the pope they\'d be all,\n                                "Straighten your pope hat." And "Put on your good vestments."'
-                  )
+                  _c("span", { staticClass: "font-normal" }, [
+                    _vm._v(
+                      "Through our strategic partnership, you could improve your degree of internationalization capacity or the ‘Bamboo Factor’, whether you’re working on a Startup or your ecosystem as a whole."
+                    )
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "mb-2" }),
+                _vm._v(" "),
+                _c("p", { staticClass: "alt-body" }, [
+                  _c("span", { staticClass: "font-normal" }, [
+                    _vm._v(
+                      "We offer simple, straight-to-the-point, market-tested and executable solutions coupled with the right network and connections that will help you achieve your goals and set off results for your specific internationalization needs."
+                    )
+                  ])
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "buttons-container mt-8" }, [
-                  _c("div", { staticClass: "std-btn mr-2" }, [
-                    _vm._v("Our Services")
-                  ]),
-                  _vm._v(" "),
                   _c("div", { staticClass: "std-btn" }, [
-                    _vm._v("Schedule Assessment")
+                    _vm._v("Schedule a quick consultation")
                   ])
                 ])
               ])
             ])
           ]),
           _vm._v(" "),
-          _c("div", { staticClass: "w-4/12" })
+          _c("div", { staticClass: "w-2/12" })
         ])
       ])
     ])
@@ -21351,56 +21587,201 @@ var staticRenderFns = [
                   attrs: { id: "startups-services" }
                 },
                 [
+                  _c("div", { staticClass: "service-header" }, [
+                    _c("h2", [_vm._v("Startups")])
+                  ]),
+                  _vm._v(" "),
                   _c("h3", [
-                    _c("span", { staticClass: "highlight" }, [
-                      _vm._v("Startups ")
-                    ]),
+                    _vm._v("We help Technology "),
+                    _c("span", {}, [_vm._v("Startups")]),
                     _vm._v(
-                      "that can’t understand his teleprompter because he forgot how you say that letter happened and why I forgot you exist."
+                      " rapidly internationalize by finding the right markets with reliable returns, fast. We take up the challenge of finding the unmet need for your products before taking up any permanent resources in the target market."
                     )
                   ]),
                   _vm._v(" "),
                   _c("div", { staticClass: "service-points" }, [
                     _c("p", { staticClass: "alt-body" }, [
                       _vm._v(
-                        "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
+                        "Use market access strategies to localize your sales strategy for the target market, get those initial clients and decrease time-to-market."
                       )
                     ]),
                     _vm._v(" "),
                     _c("p", { staticClass: "alt-body" }, [
                       _vm._v(
-                        "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
+                        "Find ways to achieve your goals through a strategic partnership - figure out viable geographies, time-to-market, localization strategy and more which allows you to think about the bigger picture, right from the start."
                       )
                     ]),
                     _vm._v(" "),
                     _c("p", { staticClass: "alt-body" }, [
                       _vm._v(
-                        "But I've never been to the moon! Oh, how awful. Did he at least die painlessly? To shreds, you say. Well, how is his wife holding up?"
+                        "Connect with approved Mentors, Corporate decision makers, Influencers and Industry experts,  partnerships essential for setting up operations, set up a customer base and find local talent to serve them."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Approach funding and investor relationships like an International company, which increases the ticket size and the overall company outlook."
                       )
                     ])
                   ])
                 ]
               ),
               _vm._v(" "),
-              _c("div", {
-                staticClass: "service-desc",
-                attrs: { id: "ecosystem-services" }
-              }),
+              _c(
+                "div",
+                {
+                  staticClass: "service-desc",
+                  attrs: { id: "ecosystem-services" }
+                },
+                [
+                  _c("div", { staticClass: "service-header" }, [
+                    _c("h2", [_vm._v("Ecosystem Enablers")])
+                  ]),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _vm._v("We help "),
+                    _c("span", {}, [_vm._v("Ecosystem Enablers")]),
+                    _vm._v(
+                      " improve the degree of innovation and internationalization capacity of the startups existing in your ecosystem of any shape, size or form."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "service-points" }, [
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Attract new startups to your ecosystem. Connect to the right players and improve the overall nature and quality of innovation across your ecosystem."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Help your Startups reach higher scale by using a market tested approach and shorten incubation and acceleration cycles, with fast results."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Explore potential international partnerships for your startups by providing more visibility within the international market. Approach funding with a wider perspective, which can have long lasting implications for your market as a whole."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Explore program and policy design for your specific needs and goals while validating the ones that are already employed in your current workflow."
+                      )
+                    ])
+                  ])
+                ]
+              ),
               _vm._v(" "),
-              _c("div", {
-                staticClass: "service-desc",
-                attrs: { id: "governments-services" }
-              }),
+              _c(
+                "div",
+                {
+                  staticClass: "service-desc",
+                  attrs: { id: "governments-services" }
+                },
+                [
+                  _c("div", { staticClass: "service-header" }, [
+                    _c("h2", [_vm._v("Governments")])
+                  ]),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _vm._v("We help "),
+                    _c("span", {}, [_vm._v("Governments")]),
+                    _vm._v(
+                      " create lasting impact, quickly. Support and improve ease of innovation in your geography to help startups grow their degree of internationalization capability, thus helping the economy scale."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "service-points" }, [
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Meet your targets and milestones, execute the right policies and create the right programs to grow your economy and its employment opportunities through our market-tested approach."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Commercialize research and development by finding the right talent to employ specific technologies, achieve specific use-cases."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "We offer third-party partnerships and support to achieve specific results and execute swiftly. Understand the global scale of the problem you are trying to solve for a deeper insight into solving it."
+                      )
+                    ])
+                  ])
+                ]
+              ),
               _vm._v(" "),
-              _c("div", {
-                staticClass: "service-desc",
-                attrs: { id: "corporate-services" }
-              }),
+              _c(
+                "div",
+                {
+                  staticClass: "service-desc",
+                  attrs: { id: "corporate-services" }
+                },
+                [
+                  _c("div", { staticClass: "service-header" }, [
+                    _c("h2", [_vm._v("Corporate")])
+                  ]),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _vm._v("We help the "),
+                    _c("span", {}, [_vm._v("Corporate")]),
+                    _vm._v(
+                      " find potential acquisitions, strategize your approach to uncovering market segments to find talent, and potential acquisitions towards mutual benefit in improving innovation capacity."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "service-points" }, [
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Find and connect with innovative startups through our vast network across Europe and Asia. We offer you the access to innovation across the globe."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Survey markets for potential startups that would increase your organization’s innovative capacity to form long lasting partnerships or technology that would help you reach your goals in the area of Innovation."
+                      )
+                    ])
+                  ])
+                ]
+              ),
               _vm._v(" "),
-              _c("div", {
-                staticClass: "service-desc",
-                attrs: { id: "investors-services" }
-              }),
+              _c(
+                "div",
+                {
+                  staticClass: "service-desc",
+                  attrs: { id: "investors-services" }
+                },
+                [
+                  _c("div", { staticClass: "service-header" }, [
+                    _c("h2", [_vm._v("Investors")])
+                  ]),
+                  _vm._v(" "),
+                  _c("h3", [
+                    _vm._v(
+                      "We help Investors through the full cycle of investment, the first meeting to closing the deal - minimizing road-blocks for rapid deal-flow. Investment does not have to be an arduous process, specially when time is a constraint."
+                    )
+                  ]),
+                  _vm._v(" "),
+                  _c("div", { staticClass: "service-points" }, [
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Improve the state of your investees, raise their innovative and internationalization capacity to improve their ticket sizes and scale their businesses fast."
+                      )
+                    ]),
+                    _vm._v(" "),
+                    _c("p", { staticClass: "alt-body" }, [
+                      _vm._v(
+                        "Use our vast network through out Europe and Asia to quickly source funding, find potential partners and talent from targeted geographies and ecosystems."
+                      )
+                    ])
+                  ])
+                ]
+              ),
               _vm._v(" "),
               _c("div", {
                 staticClass: "service-desc",
@@ -21425,7 +21806,7 @@ var staticRenderFns = [
         _c("div", { staticClass: "gen-service-list" }, [
           _c("div", { staticClass: "service" }, [
             _c("div", { staticClass: "title h3" }, [
-              _vm._v("Curabitur urna dolor")
+              _vm._v("Strategic Partnership")
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "mb-2" }),
@@ -21434,7 +21815,267 @@ var staticRenderFns = [
               _c("div", { staticClass: "font-normal" }, [
                 _c("p", [
                   _vm._v(
-                    "\n                                How you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Sales Strategy")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [
+              _vm._v("Business Development Strategy")
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [
+              _vm._v("Expert Sector-specific Guidance")
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [
+              _vm._v("Go-to-market Strategy")
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [
+              _vm._v("Ecosystem Development")
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Program Design")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Market Access")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Policy design")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Validation")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Interventions")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Hiring Support")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Relationships")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Legal Advice")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
+                  )
+                ])
+              ])
+            ]),
+            _vm._v(" "),
+            _c("span", { staticClass: "view-more-btn h2" }, [_vm._v("+")])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "service" }, [
+            _c("div", { staticClass: "title h3" }, [_vm._v("Consultation")]),
+            _vm._v(" "),
+            _c("div", { staticClass: "mb-2" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "desc  max-w-3xl" }, [
+              _c("div", { staticClass: "font-normal" }, [
+                _c("p", [
+                  _vm._v(
+                    "\n                                Temporary text - how you say that letter that's shaped like a man wearing a hat. Yeah, and if\n                                you were the pope they'd be all.\n                            "
                   )
                 ])
               ])
