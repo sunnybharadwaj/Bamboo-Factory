@@ -8,7 +8,6 @@
             </div>
 
             <div class="links flex">
-                <router-link to="/" class="nav-link"><span class="text">Home</span></router-link>
                 <router-link to="/about" class="nav-link"><span class="text">About</span></router-link>
                 <router-link to="/profile" class="nav-link"><span class="text">Profile</span></router-link>
                 <router-link to="/services" class="nav-link"><span class="text">Services</span></router-link>

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656d7baa-5c99-4edf-bda7-dfad730a917e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/pages/ServicesPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/pages/ServicesPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/logos/wordmark.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/static/logos/wordmark.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/components/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/components/header.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -153,20 +150,20 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/resources/js/components/pages/ServicesPage.vue">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+                <state relative-caret-position="813">
+                  <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/resources/views/components/header.blade.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="93">
-                  <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+                <state relative-caret-position="496">
+                  <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -343,7 +340,6 @@
         <option value="$PROJECT_DIR$/resources/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/resources/sass/pages/_about.scss" />
         <option value="$PROJECT_DIR$/resources/sass/pages/_pages.scss" />
-        <option value="$PROJECT_DIR$/resources/views/components/header.blade.php" />
         <option value="$PROJECT_DIR$/resources/js/app.js" />
         <option value="$PROJECT_DIR$/resources/views/layouts/site.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/components/footer.blade.php" />
@@ -359,6 +355,7 @@
         <option value="$PROJECT_DIR$/resources/sass/pages/_services.scss" />
         <option value="$PROJECT_DIR$/resources/sass/app.scss" />
         <option value="$PROJECT_DIR$/resources/js/components/pages/ServicesPage.vue" />
+        <option value="$PROJECT_DIR$/resources/views/components/header.blade.php" />
       </list>
     </option>
   </component>
@@ -474,10 +471,41 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bamboofactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bamboofactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bamboofactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bamboofactory" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bamboofactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bamboofactory" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bamboofactory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bamboofactory" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="logos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="services&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/components/pages/ServicesPage.vue&#10;About&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/pages/_about.scss&#10;service&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/pages/_services.scss&#10;f&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/footer.blade.php&#10;footer&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/footer.blade.php&#10;app.j&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/app.js&#10;home page&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/components/pages/HomePage.vue&#10;Home&#9;null&#9;null&#10;app.&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/app.js&#10;site&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/layouts/site.blade.php&#10;hea&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/header.blade.php&#10;var&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/_variables.scss&#10;he&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/header.blade.php&#10;var.&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/_variables.scss&#10;webpack&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/webpack.mix.js" />
+    <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/Projects/Bamboo Factory/repo/bamboofactory/resources/views/components/header.blade.php&#10;services&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/components/pages/ServicesPage.vue&#10;About&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/pages/_about.scss&#10;service&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/pages/_services.scss&#10;f&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/footer.blade.php&#10;footer&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/footer.blade.php&#10;app.j&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/app.js&#10;home page&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/components/pages/HomePage.vue&#10;Home&#9;null&#9;null&#10;app.&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/app.js&#10;site&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/layouts/site.blade.php&#10;hea&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/header.blade.php&#10;var&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/_variables.scss&#10;he&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/views/components/header.blade.php&#10;var.&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/_variables.scss&#10;webpack&#9;FILE&#9;file:///Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/webpack.mix.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -527,18 +555,18 @@
       <workItem from="1570456416355" duration="108000" />
       <workItem from="1570626575706" duration="112000" />
       <workItem from="1571203516355" duration="8000" />
-      <workItem from="1571382804529" duration="792000" />
+      <workItem from="1571382804529" duration="1327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42820000" />
+    <option name="totallyTimeSpent" value="43355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14217253" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14163615" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -674,13 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/components/header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/components/pages/ProfilePage.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1085">
@@ -788,8 +809,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/js/components/pages/ServicesPage.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        <state relative-caret-position="813">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/components/header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
         </state>
       </provider>
     </entry>
