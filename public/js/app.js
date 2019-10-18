@@ -21531,7 +21531,7 @@ var staticRenderFns = [
       _c("div", { staticClass: "container" }, [
         _c("div", { staticClass: "flex" }, [
           _c("div", { staticClass: "w-4/12" }, [
-            _c("div", { staticClass: "content" }, [
+            _c("div", { staticClass: "content sticky top-0 pt-64" }, [
               _c("div", { staticClass: "links" }, [
                 _c(
                   "div",
@@ -21539,13 +21539,31 @@ var staticRenderFns = [
                     staticClass: "link h3 active",
                     attrs: { id: "Startups-s-link" }
                   },
-                  [_vm._v("Startups")]
+                  [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "scrolling-touch",
+                        attrs: { href: "#startups-services" }
+                      },
+                      [_vm._v("Startups")]
+                    )
+                  ]
                 ),
                 _vm._v(" "),
                 _c(
                   "div",
                   { staticClass: "link h3", attrs: { id: "Ecosystem-s-link" } },
-                  [_vm._v("Ecosystem")]
+                  [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "scrolling-touch",
+                        attrs: { href: "#ecosystem-services" }
+                      },
+                      [_vm._v("Ecosystem")]
+                    )
+                  ]
                 ),
                 _vm._v(" "),
                 _c(
@@ -21554,25 +21572,61 @@ var staticRenderFns = [
                     staticClass: "link h3",
                     attrs: { id: "Governments-s-link" }
                   },
-                  [_vm._v("Governments")]
+                  [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "scrolling-touch",
+                        attrs: { href: "#governments-services" }
+                      },
+                      [_vm._v("Governments")]
+                    )
+                  ]
                 ),
                 _vm._v(" "),
                 _c(
                   "div",
                   { staticClass: "link h3", attrs: { id: "Corporate-s-link" } },
-                  [_vm._v("Corporate")]
+                  [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "scrolling-touch",
+                        attrs: { href: "#corporate-services" }
+                      },
+                      [_vm._v("Corporate")]
+                    )
+                  ]
                 ),
                 _vm._v(" "),
                 _c(
                   "div",
                   { staticClass: "link h3", attrs: { id: "Investors-s-link" } },
-                  [_vm._v("Investors")]
+                  [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "scrolling-touch",
+                        attrs: { href: "#investors-services" }
+                      },
+                      [_vm._v("Investors")]
+                    )
+                  ]
                 ),
                 _vm._v(" "),
                 _c(
                   "div",
                   { staticClass: "link h3", attrs: { id: "More-s-link" } },
-                  [_vm._v("More")]
+                  [
+                    _c(
+                      "a",
+                      {
+                        staticClass: "scrolling-touch",
+                        attrs: { href: "#more-services" }
+                      },
+                      [_vm._v("More")]
+                    )
+                  ]
                 )
               ])
             ])
@@ -37943,8 +37997,8 @@ var routes = [{
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /Users/sunny/Documents/Work/Chakra/projects/Bamboo Factory/repo/bamboofactory/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/sunny/Documents/Work/Chakra/Projects/Bamboo Factory/repo/bamboofactory/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/sunny/Documents/Work/Chakra/Projects/Bamboo Factory/repo/bamboofactory/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

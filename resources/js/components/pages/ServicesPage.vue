@@ -36,14 +36,14 @@
             <div class="container">
                 <div class="flex">
                     <div class="w-4/12">
-                        <div class="content">
+                        <div class="content sticky top-0 pt-64">
                             <div class="links">
-                                <div id="Startups-s-link" class="link h3 active">Startups</div>
-                                <div id="Ecosystem-s-link" class="link h3">Ecosystem</div>
-                                <div id="Governments-s-link" class="link h3">Governments</div>
-                                <div id="Corporate-s-link" class="link h3">Corporate</div>
-                                <div id="Investors-s-link" class="link h3">Investors</div>
-                                <div id="More-s-link" class="link h3">More</div>
+                                <div id="Startups-s-link" class="link h3 active"><a class="scrolling-touch" href="#startups-services">Startups</a></div>
+                                <div id="Ecosystem-s-link" class="link h3"><a class="scrolling-touch" href="#ecosystem-services">Ecosystem</a></div>
+                                <div id="Governments-s-link" class="link h3"><a class="scrolling-touch" href="#governments-services">Governments</a></div>
+                                <div id="Corporate-s-link" class="link h3"><a class="scrolling-touch" href="#corporate-services">Corporate</a></div>
+                                <div id="Investors-s-link" class="link h3"><a class="scrolling-touch" href="#investors-services">Investors</a></div>
+                                <div id="More-s-link" class="link h3"><a class="scrolling-touch" href="#more-services">More</a></div>
                             </div>
                         </div>
                     </div>
